@@ -1,0 +1,11 @@
+{
+    "hash": "d92a4bf2089364de1769faab5f8a4e7f8dcbbd4f",
+    "plugins": [],
+    "themes": [
+        {
+            "name": "twentytwentythree",
+            "src": "git@github.com:WordPress/twentytwentythree",
+            "revision": "11440a5b38bae6882fc2c00b703d4bb95420a0f5"
+        }
+    ]
+}

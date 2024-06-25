@@ -1,0 +1,13 @@
+{
+  "src": {
+  },
+  "plugins": [ 
+  ],
+  "themes": [
+    {
+      "name": "twentytwentythree",
+      "ref": "trunk",
+      "src": "git@github.com:WordPress/twentytwentythree"
+    }
+  ]
+}
